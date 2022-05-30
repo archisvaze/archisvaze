@@ -4,8 +4,6 @@
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=archisvaze&hide=TeX&layout=compact)  
 
 
-![PlayStore](https://raw.githubusercontent.com/steverichey/google-play-badge-svg/master/img/en_get.svg)
-
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=archisvaze.archisvaze)
 <!--
 **archisvaze/archisvaze** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub 
