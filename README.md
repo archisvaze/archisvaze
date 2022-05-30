@@ -1,7 +1,6 @@
 ### Hi there 👋
 
-![Archis's GitHub stats](https://github-readme-stats.vercel.app/api?username=archisvaze&show_icons=true&theme=radical)
-
+![Archis's GitHub stats](https://github-readme-stats.vercel.app/api?username=archisvaze)](https://github.com/anuraghazra/github-readme-stats)
 <!--
 **archisvaze/archisvaze** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub 
 
