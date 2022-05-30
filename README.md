@@ -1,9 +1,9 @@
 ### Hi there 👋
 
+![Archis's GitHub stats](https://github-readme-stats.vercel.app/api?username=archisvaze&show_icons=true&theme=radical)
+
 <!--
 **archisvaze/archisvaze** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub 
-
-![Archis's GitHub stats](https://github-readme-stats.vercel.app/api?username=archisvaze&show_icons=true&theme=radical)
 
 Here are some ideas to get you started:
 
