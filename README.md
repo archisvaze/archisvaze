@@ -3,6 +3,9 @@
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=archisvaze&count_private=true&show_icons=true&include_all_commits=true&hide=contribs)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=archisvaze&hide=TeX&layout=compact)  
 
+- 🌱 I’m currently learning JavaScript, HTML and CSS.
+
+
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=archisvaze.archisvaze)
 <!--
 **archisvaze/archisvaze** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub 
