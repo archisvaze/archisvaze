@@ -2,7 +2,7 @@
 
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=archisvaze&count_private=true&show_icons=true&include_all_commits=true&hide=contribs)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=archisvaze&hide=TeX&layout=compact)  
-
+[![GitHub commits](https://badgen.net/github/commits/archisvaze/Strapdown.js)]
 
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=archisvaze.archisvaze)
