@@ -4,6 +4,8 @@
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
 ![Firebase](https://img.shields.io/badge/Firebase-039BE5?style=for-the-badge&logo=Firebase&logoColor=white)
 ![PlayStore](https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white)
+
+
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=archisvaze)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=archisvaze&hide=TeX&layout=compact)  
 
