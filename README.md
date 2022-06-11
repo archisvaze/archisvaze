@@ -1,6 +1,6 @@
 ### Hallo 👋
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=archisvaze) 
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=archisvaze)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=archisvaze&hide=TeX&layout=compact)  
 
 
