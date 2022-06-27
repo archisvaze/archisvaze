@@ -1,7 +1,7 @@
 ### Hallo 👋
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=archisvaze)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=archisvaze&hide=TeX&layout=compact)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=archisvaze&theme=dark)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=archisvaze&theme=dark&hide=TeX&layout=compact)  
 
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=archisvaze.archisvaze)
