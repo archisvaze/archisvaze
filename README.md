@@ -1,5 +1,5 @@
 ### Hallo 👋
-![Quote](https://github-readme-quotes.herokuapp.com/quote?theme=dark)
+
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=archisvaze&theme=dark)  
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=archisvaze&theme=dark&hide=TeX&layout=compact)  
 
