@@ -1,10 +1,15 @@
 ### Hallo 👋
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=archisvaze&theme=dark)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=archisvaze&theme=dark&hide=TeX&layout=compact)  
-
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=archisvaze.archisvaze)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=archisvaze&theme=dark&hide=TeX&layout=compact) 
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=archisvaze&theme=dark)  
+
+![Contribution](https://activity-graph.herokuapp.com/graph?username=archisvaze&theme=dark&hide_border=true&area=true)
+
+
 <!--
 **archisvaze/archisvaze** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub 
 
