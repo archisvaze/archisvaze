@@ -7,7 +7,7 @@
 
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=archisvaze&theme=dark)  
 
-![Contribution](https://activity-graph.herokuapp.com/graph?username=archisvaze&theme=dark&hide_border=true&area=true)
+![Contribution](https://activity-graph.herokuapp.com/graph?username=archisvaze&theme=dark&hide_border=true&area=true&layout=compact)
 
 
 <!--
