@@ -5,9 +5,9 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=archisvaze&theme=react&hide=TeX&layout=compact) 
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=archisvaze&theme=nord)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=archisvaze&theme=react)  
 
-![Contribution](https://activity-graph.herokuapp.com/graph?username=archisvaze&theme=nord&hide_border=true&area=true)
+![Contribution](https://activity-graph.herokuapp.com/graph?username=archisvaze&theme=react&hide_border=true&area=true)
 
 
 <!--
