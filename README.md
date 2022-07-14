@@ -3,11 +3,11 @@
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=archisvaze.archisvaze)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=archisvaze&theme=light&hide=TeX&layout=compact) 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=archisvaze&theme=nord&hide=TeX&layout=compact) 
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=archisvaze&theme=light)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=archisvaze&theme=nord)  
 
-![Contribution](https://activity-graph.herokuapp.com/graph?username=archisvaze&theme=light&hide_border=true&area=false)
+![Contribution](https://activity-graph.herokuapp.com/graph?username=archisvaze&theme=nord&hide_border=true&area=true)
 
 
 <!--
