@@ -1,11 +1,10 @@
 ### Hallo 👋
 
-
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=archisvaze.archisvaze)
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=archisvaze&theme=default&hide=TeX&layout=compact) 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=archisvaze&theme=nord&hide=TeX&layout=compact) 
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=archisvaze&theme=default)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=archisvaze&theme=nord)  
 
 
 
