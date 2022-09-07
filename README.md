@@ -2,7 +2,7 @@
 
 - 💻 I'm a full stack developer.
 - 🌱 I’m currently learning AnimeJS, Postgresql and working on my portfolio website.
-- ⚡ Fun fact: I can speak 4 Languages : English, German, Hindi & Marathi. I recently completed Level C German from Goethe Institute
+- ⚡ Fun fact: I can speak 4 Languages : English, German, Hindi & Marathi. I recently completed Level C German from Goethe Institute. ich bin verliebt in die deutsche sprache und die deutsche kultur! 
 - 💬 I like to read and talk about Tech, Space, Culture, Food and TV 
 - 😄 Pronouns: He/Him
 
