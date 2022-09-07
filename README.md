@@ -14,6 +14,8 @@
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=archisvaze&theme=nord&hide=TeX&layout=compact) 
 
+![Code Wars](https://www.codewars.com/users/archis_/badges/large)
+
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=archisvaze&theme=nord)  
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=archisvaze.archisvaze)
