@@ -1,7 +1,14 @@
 ### Hello I'm Archis 👋
 
+- 💻 I'm a full stack developer.
+- 🌱 I’m currently learning AnimeJS and some other React Libraries.
+- ⚡ Fun fact: I can speak 4 Languages : English, German, Hindi & Marathi. I recently completed Level C German from Goethe Institute
+- 💬 I like to read and talk about Tech, Space, Culture, Food and TV 
+- 😄 Pronouns: He/Him
 
-[![My Skills](https://skills.thijs.gg/icons?i=js,)](https://skills.thijs.gg)
+### I work with:
+
+[![My Skills](https://skills.thijs.gg/icons?i=js,html,css,react)](https://skills.thijs.gg)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=archisvaze&theme=nord&hide=TeX&layout=compact) 
 
