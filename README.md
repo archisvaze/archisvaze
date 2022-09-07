@@ -8,7 +8,7 @@
 
 ### I work with:
 
-[![My Skills](https://skills.thijs.gg/icons?i=js,html,css,react,node,firebase,mongodb,express,postgresql)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=js,html,css,react,nodejs,firebase,mongodb,express,postgresql)](https://skills.thijs.gg)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=archisvaze&theme=nord&hide=TeX&layout=compact) 
 
