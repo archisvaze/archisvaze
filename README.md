@@ -1,4 +1,4 @@
-### Hello I'm Archis 👋
+## Hello I'm Archis 👋
 
 - 💻 I'm a full stack developer.
 - 🌱 I’m currently learning AnimeJS, Postgresql and working on my portfolio website.
