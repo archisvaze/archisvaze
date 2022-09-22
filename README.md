@@ -1,7 +1,7 @@
 ## Hello I'm Archis 👋
 
-- 💻 I'm a full stack developer.
-- 🌱 I’m currently learning AnimeJS, Postgresql and working on my portfolio website.
+- 💻 Full stack Dev.
+- 🌱 Currently learning AnimeJS, Postgresql and working on my portfolio website.
 - ⚡ Fun fact: I can speak 4 Languages : English, German, Hindi & Marathi. I recently completed Level C German from Goethe Institute. ich würde mich gerne mit ihnen auf Deutsch unterhalten
 - 💬 I like to read and talk about Tech, Space, History and TV.
 
