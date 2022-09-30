@@ -10,7 +10,7 @@ I am a full stack developer, skilled at the MERN stack and many other technologi
 
 ### Connect With me: 
 <a href="https://linkedin.com/in/archisvaze">
-  <img src="https://user-images.githubusercontent.com/92965519/193201373-891d62d9-8bd4-46d6-bfb4-305b478f9876.svg" width="7">
+  <img src="https://user-images.githubusercontent.com/92965519/193201373-891d62d9-8bd4-46d6-bfb4-305b478f9876.svg" width="7%">
 </a> 
 
 ## <p align=center >Personal Projects</p>
