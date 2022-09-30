@@ -11,6 +11,7 @@ I am a full stack developer, skilled at the MERN stack and many other technologi
 
 ## <p align=center >Personal Projects</p>
 <br/>
+
 ## <a href="https://bejewelled-malasada-a4a4bc.netlify.app/">Anonymous Feedback App</a>
 
 **Tech : ReactJS, Redux, Firebase-Auth, Firestore**
