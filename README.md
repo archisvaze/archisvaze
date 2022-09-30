@@ -9,19 +9,20 @@ I am a full stack developer, skilled at the MERN stack and many other technologi
 [![My Skills](https://skills.thijs.gg/icons?i=js,html,css,react,redux,nodejs,firebase,mongodb,expressjs,postgres,bash,netlify,vscode,)](https://skills.thijs.gg)
 
 
-### <p align=center >Personal Projects</p>
+## <p align=center >Personal Projects</p>
 <br/>
 ## <a href="https://bejewelled-malasada-a4a4bc.netlify.app/">Anonymous Feedback App</a>
+
 **Tech : ReactJS, Redux, Firebase-Auth Firestore**
+
 #### About
 This is a front-end app with firebase as backend. In this website users can signup and register for their custom feedback page. Other users can visit this unique page and provide constructive anonymous feedback about the user. The user can see all the anonymous feedback recieved on his/her homepage
-
 
 #### Screenshots
 <div style="dispaly: flex: justify-content: center">
 <img src = "https://user-images.githubusercontent.com/92965519/184519289-fafd9f1f-61a4-43b4-9c29-69e29633ef6e.png" alt = "login Page" width="48%"/> 
   <img src = "https://user-images.githubusercontent.com/92965519/184519292-7c11a666-dc31-4526-8f96-ce1160741e02.png" alt = "Home Page" width= "48%"/> 
- <img src = "https://github.com/devgiri0082/devgiri0082/blob/main/images/answer%20board/Screen%20Shot%202021-07-18%20at%2020.15.11.png" alt = "Feedback Page" width= "48%"/>
+ <img src = "https://user-images.githubusercontent.com/92965519/184519329-277d5f46-a132-4f97-b60a-22fab4b2baa6.png" alt = "Feedback Page" width= "48%"/>
  </div>
  <br/>
 
