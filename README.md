@@ -10,13 +10,13 @@ I am a full stack developer, skilled at the MERN stack and many other technologi
 
 ### Connect With me: 
 <a href="https://linkedin.com/in/archisvaze">
-  <img src="https://user-images.githubusercontent.com/92965519/193201373-891d62d9-8bd4-46d6-bfb4-305b478f9876.svg" width="6%">
+  <img src="https://user-images.githubusercontent.com/92965519/193201373-891d62d9-8bd4-46d6-bfb4-305b478f9876.svg" width="6%" maxWidth="50px">
 </a>
 <a href="mailto:vazearchis@gmail.com">
-  <img src="https://user-images.githubusercontent.com/92965519/193213432-329d2df5-959d-4b04-a0ce-41ebece26176.png" width="6%">
+  <img src="https://user-images.githubusercontent.com/92965519/193213432-329d2df5-959d-4b04-a0ce-41ebece26176.png" width="6%" maxWidth="50px">
 </a>
 <a href="https://twitter.com/archies004">
-  <img src="https://user-images.githubusercontent.com/92965519/193213269-f497e4cb-8688-43e2-bb50-a068a2c24cb9.png" width="6%">
+  <img src="https://user-images.githubusercontent.com/92965519/193213269-f497e4cb-8688-43e2-bb50-a068a2c24cb9.png" width="6%" maxWidth="50px">
 </a>
 
 ## <p align=center >Personal Projects</p>
@@ -31,9 +31,9 @@ This is a front-end app with firebase as backend. In this website users can sign
 
 #### Screenshots
 <div style="dispaly: flex: justify-content: center">
-<img src = "https://user-images.githubusercontent.com/92965519/184519289-fafd9f1f-61a4-43b4-9c29-69e29633ef6e.png" alt = "login Page" width="48%" maxWidth="50px"/> 
-<img src = "https://user-images.githubusercontent.com/92965519/184519292-7c11a666-dc31-4526-8f96-ce1160741e02.png" alt = "Home Page" width= "48%" maxWidth="50px"/> 
-<img src = "https://user-images.githubusercontent.com/92965519/184519329-277d5f46-a132-4f97-b60a-22fab4b2baa6.png" alt = "Feedback Page" width= "48%" maxWidth="50px"/>
+<img src = "https://user-images.githubusercontent.com/92965519/184519289-fafd9f1f-61a4-43b4-9c29-69e29633ef6e.png" alt = "login Page" width="48%"/> 
+<img src = "https://user-images.githubusercontent.com/92965519/184519292-7c11a666-dc31-4526-8f96-ce1160741e02.png" alt = "Home Page" width= "48%"/> 
+<img src = "https://user-images.githubusercontent.com/92965519/184519329-277d5f46-a132-4f97-b60a-22fab4b2baa6.png" alt = "Feedback Page" width= "48%"/>
 </div>
 <br/>
  
