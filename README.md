@@ -10,13 +10,13 @@ I am a full stack developer, skilled at the MERN stack and many other technologi
 
 ### Connect With me: 
 <a href="https://linkedin.com/in/archisvaze">
-  <img src="https://user-images.githubusercontent.com/92965519/193201373-891d62d9-8bd4-46d6-bfb4-305b478f9876.svg" width="6%" maxWidth="50px">
+  <img src="https://user-images.githubusercontent.com/92965519/193201373-891d62d9-8bd4-46d6-bfb4-305b478f9876.svg" width="6%" max-width="50px">
 </a>
 <a href="mailto:vazearchis@gmail.com">
-  <img src="https://user-images.githubusercontent.com/92965519/193213432-329d2df5-959d-4b04-a0ce-41ebece26176.png" width="6%" maxWidth="50px">
+  <img src="https://user-images.githubusercontent.com/92965519/193213432-329d2df5-959d-4b04-a0ce-41ebece26176.png" width="6%" max-width="50px">
 </a>
 <a href="https://twitter.com/archies004">
-  <img src="https://user-images.githubusercontent.com/92965519/193213269-f497e4cb-8688-43e2-bb50-a068a2c24cb9.png" width="6%" maxWidth="50px">
+  <img src="https://user-images.githubusercontent.com/92965519/193213269-f497e4cb-8688-43e2-bb50-a068a2c24cb9.png" width="6%" max-width="50px">
 </a>
 
 ## <p align=center >Personal Projects</p>
