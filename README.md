@@ -13,7 +13,7 @@ I am a full stack developer, skilled at the MERN stack and many other technologi
 <br/>
 ## <a href="https://bejewelled-malasada-a4a4bc.netlify.app/">Anonymous Feedback App</a>
 
-**Tech : ReactJS, Redux, Firebase-Auth Firestore**
+**Tech : ReactJS, Redux, Firebase-Auth, Firestore**
 
 #### About
 This is a front-end app with firebase as backend. In this website users can signup and register for their custom feedback page. Other users can visit this unique page and provide constructive anonymous feedback about the user. The user can see all the anonymous feedback recieved on his/her homepage
@@ -23,6 +23,20 @@ This is a front-end app with firebase as backend. In this website users can sign
 <img src = "https://user-images.githubusercontent.com/92965519/184519289-fafd9f1f-61a4-43b4-9c29-69e29633ef6e.png" alt = "login Page" width="48%"/> 
   <img src = "https://user-images.githubusercontent.com/92965519/184519292-7c11a666-dc31-4526-8f96-ce1160741e02.png" alt = "Home Page" width= "48%"/> 
  <img src = "https://user-images.githubusercontent.com/92965519/184519329-277d5f46-a132-4f97-b60a-22fab4b2baa6.png" alt = "Feedback Page" width= "48%"/>
+ </div>
+ <br/>
+ 
+ ## <a href="https://gorgeous-toffee-7cb784.netlify.app/">React Movies Website</a>
+
+**Tech : ReactJS, Redux, API**
+
+#### About
+Lookup new and trending movies using the TMDB API. Users can search any movie and get info about cast, trailers and more. Users can also add movies to a watchlist. I used localstorage to save movies in watchlist.
+
+#### Screenshots
+<div style="dispaly: flex: justify-content: center">
+<img src = "https://user-images.githubusercontent.com/92965519/179036488-40bed9d8-a695-44bb-8dba-b3f049367da3.png" alt = "Home Page" width="48%"/> 
+  <img src = "https://user-images.githubusercontent.com/92965519/179036750-9eb47c2e-9636-47b8-8dd6-37310e916fc0.png" alt = "Movie Details Page" width= "48%"/> 
  </div>
  <br/>
 
