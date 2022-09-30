@@ -1,9 +1,8 @@
-## Hello I'm Archis 👋
+## Hello I'm Archis Vaze 👋
 
-- 💻 Full stack Dev.
-- 🌱 Currently learning AnimeJS, Postgresql and working on my portfolio website.
-- ⚡ Fun fact: I can speak 4 Languages : English, German, Hindi & Marathi. I recently completed Level C German from Goethe Institute. ich würde mich gerne mit ihnen auf Deutsch unterhalten
-- 💬 I like to read and talk about Tech, Space, History and TV.
+---
+
+I am a full stack developer, skilled at the MERN stack and many other technologies such as PostgreSQL, Firebase, TailwindCSS, and MaterialUI among others. I'm known to go above and beyond to make pixel-perfect layouts and write code that is clear, readable, and reusable. I am someone who embraces change, so I am always ready to learn and master the newest technologies and trends in the tech world. 
 
 ### I work with:
 
