@@ -17,7 +17,18 @@ I am a full-stack developer highly skilled at the MERN/PERN stack and many other
 </a>
 <a href="https://twitter.com/archies004">
   <img src="https://user-images.githubusercontent.com/92965519/193213269-f497e4cb-8688-43e2-bb50-a068a2c24cb9.png" width="6%" max-width="50px">
-</a>
+</a>  
+
+### My Stats
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=archisvaze&theme=nord&hide=TeX&layout=compact) 
+
+![Code Wars](https://www.codewars.com/users/archis_/badges/large)
+
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=archisvaze&theme=nord)  
+
+![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=archisvaze.archisvaze)  
+
 
 ## <p align=center >Personal Projects</p>
 <br/>
@@ -83,15 +94,6 @@ This is a quiz platform that teachers can use to create personalized quizes with
 </div>
 <br/>
 
-### My Stats
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=archisvaze&theme=nord&hide=TeX&layout=compact) 
-
-![Code Wars](https://www.codewars.com/users/archis_/badges/large)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=archisvaze&theme=nord)  
-
-![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=archisvaze.archisvaze)
 
 <!--
 **archisvaze/archisvaze** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub 
