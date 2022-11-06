@@ -6,7 +6,7 @@ I am a full-stack developer highly skilled at the MERN/PERN stack and many other
 
 ### I work with:
 
-[![My Skills](https://skills.thijs.gg/icons?i=js,html,css,react,redux,nodejs,firebase,mongodb,expressjs,postgres,bash,netlify,vscode,nextjs, typescript, tailwind)](https://skills.thijs.gg)
+[![My Skills](https://skills.thijs.gg/icons?i=js,html,css,react,redux,nodejs,firebase,mongodb,expressjs,postgres,bash,netlify,vscode,nextjs,typescript,tailwind)](https://skills.thijs.gg)
 
 ### Connect With me: 
 <a href="https://linkedin.com/in/archisvaze">
