@@ -33,7 +33,7 @@ I am a full-stack developer highly skilled at the MERN/PERN stack and many other
 ## <p align=center >Personal Projects</p>
 <br/>
 
-## <a href="https://bejewelled-malasada-a4a4bc.netlify.app/">Anonymous Feedback App</a>
+## <a href="https://sneeky-feedback.netlify.app/">Anonymous Feedback App</a>
 
 **Tech : ReactJS, Redux, Firebase-Auth, Firestore**
 
