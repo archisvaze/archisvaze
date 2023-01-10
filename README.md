@@ -19,7 +19,7 @@ I am a full-stack developer highly skilled at the MERN/PERN stack and many other
   <img src="https://user-images.githubusercontent.com/92965519/193213269-f497e4cb-8688-43e2-bb50-a068a2c24cb9.png" width="6%" max-width="50px">
 </a>
 
-### <a>Blog</a>
+### <a href="https://archisvaze.hashnode.dev/">Blog</a>
 
 ### My Stats
 
