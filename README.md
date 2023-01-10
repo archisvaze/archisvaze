@@ -8,6 +8,8 @@ I am a full-stack developer highly skilled at the MERN/PERN stack and many other
 
 [![My Skills](https://skills.thijs.gg/icons?i=js,html,css,react,redux,nodejs,firebase,mongodb,expressjs,postgres,bash,netlify,vscode,nextjs,typescript,tailwind)](https://skills.thijs.gg)
 
+### <a href="https://archisvaze.hashnode.dev/">Read my Blog</a>
+
 ### Connect With me: 
 <a href="https://linkedin.com/in/archisvaze">
   <img src="https://user-images.githubusercontent.com/92965519/193201373-891d62d9-8bd4-46d6-bfb4-305b478f9876.svg" width="6%" max-width="50px">
@@ -18,8 +20,6 @@ I am a full-stack developer highly skilled at the MERN/PERN stack and many other
 <a href="https://twitter.com/archies004">
   <img src="https://user-images.githubusercontent.com/92965519/193213269-f497e4cb-8688-43e2-bb50-a068a2c24cb9.png" width="6%" max-width="50px">
 </a>
-
-### <a href="https://archisvaze.hashnode.dev/">Blog</a>
 
 ### My Stats
 
