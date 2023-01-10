@@ -17,7 +17,9 @@ I am a full-stack developer highly skilled at the MERN/PERN stack and many other
 </a>
 <a href="https://twitter.com/archies004">
   <img src="https://user-images.githubusercontent.com/92965519/193213269-f497e4cb-8688-43e2-bb50-a068a2c24cb9.png" width="6%" max-width="50px">
-</a>  
+</a>
+
+### <a>Blog</a>
 
 ### My Stats
 
