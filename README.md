@@ -8,7 +8,7 @@ I am a full-stack developer highly skilled at the MERN/PERN stack and many other
 
 [![My Skills](https://skills.thijs.gg/icons?i=js,html,css,react,redux,nodejs,firebase,mongodb,expressjs,postgres,bash,netlify,vscode,nextjs,typescript,tailwind)](https://skills.thijs.gg)
 
-### <a href="https://archisvaze.hashnode.dev/">Read my Blog</a>
+## <a href="https://archisvaze.hashnode.dev/">Read my Blog</a>
 
 ### Connect With me: 
 <a href="https://linkedin.com/in/archisvaze">
