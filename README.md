@@ -29,7 +29,7 @@ I am a full-stack developer highly skilled at the MERN/PERN stack and many other
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=archisvaze.archisvaze)  
 
-## <a href="https://archisvaze.hashnode.dev/">Read my Blog</a>
+## <a href="https://archisvaze.hashnode.dev/">Read my Blog</a> 
 -- <a href="https://archisvaze.hashnode.dev/a-simple-and-customizable-react-alert-component">A simple React alert component</a>
 
 
