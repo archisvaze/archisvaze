@@ -9,13 +9,13 @@ I am a full-stack developer highly skilled at the MERN/PERN stack and many other
 [![My Skills](https://skills.thijs.gg/icons?i=js,html,css,react,redux,nodejs,firebase,mongodb,expressjs,postgres,bash,netlify,vscode,nextjs,typescript,tailwind)](https://skills.thijs.gg)
 
 ### Connect With me: 
-<a href="https://linkedin.com/in/archisvaze" target="_blank">
+<a href="https://linkedin.com/in/archisvaze">
   <img src="https://user-images.githubusercontent.com/92965519/193201373-891d62d9-8bd4-46d6-bfb4-305b478f9876.svg" width="6%" max-width="50px">
 </a>
-<a href="mailto:vazearchis@gmail.com" target="_blank">
+<a href="mailto:vazearchis@gmail.com">
   <img src="https://user-images.githubusercontent.com/92965519/193213432-329d2df5-959d-4b04-a0ce-41ebece26176.png" width="6%" max-width="50px">
 </a>
-<a href="https://twitter.com/archies004" target="_blank">
+<a href="https://twitter.com/archies004">
   <img src="https://user-images.githubusercontent.com/92965519/193213269-f497e4cb-8688-43e2-bb50-a068a2c24cb9.png" width="6%" max-width="50px">
 </a>
 
@@ -29,14 +29,14 @@ I am a full-stack developer highly skilled at the MERN/PERN stack and many other
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=archisvaze.archisvaze)  
 
-## <a href="https://archisvaze.hashnode.dev/" target="_blank">Read my Blog</a>
-<a href="https://archisvaze.hashnode.dev/a-simple-and-customizable-react-alert-component" target="_blank">A simple React alert component</a>
+## <a href="https://archisvaze.hashnode.dev/">Read my Blog</a>
+<a href="https://archisvaze.hashnode.dev/a-simple-and-customizable-react-alert-component">A simple React alert component</a>
 
 
 ## <p align=center >Some of my favorite projects</p>
 <br/>
 
-## <a href="https://sneeky-feedback.netlify.app/" target="_blank">Anonymous Feedback App</a>
+## <a href="https://sneeky-feedback.netlify.app/">Anonymous Feedback App</a>
 
 **Tech : ReactJS, Redux, Firebase-Auth, Firestore**
 
@@ -51,7 +51,7 @@ This is a front-end app with firebase as backend. In this website users can sign
 </div>
 <br/>
  
- ## <a href="https://gorgeous-toffee-7cb784.netlify.app/" target="_blank">React Movies Website</a>
+ ## <a href="https://gorgeous-toffee-7cb784.netlify.app/">React Movies Website</a>
 
 **Tech : ReactJS, Redux, API**
 
@@ -65,7 +65,7 @@ Lookup new and trending movies using the TMDB API. Users can search any movie an
 </div>
 <br/>
  
-  ## <a href="https://doc-seek.netlify.app/" target="_blank">DocSeek App</a>
+  ## <a href="https://doc-seek.netlify.app/">DocSeek App</a>
 
 **Tech : PostgreSQL, ExpressJS, React, NodeJS, MaterialUI**
 
@@ -81,7 +81,7 @@ Doctors can signup on this website and select their consultation hours and price
 </div>
 <br/>
  
-  ## <a href="https://mcqace.netlify.app/" target="_blank">MCQ-Ace Quiz Platform</a>
+  ## <a href="https://mcqace.netlify.app/">MCQ-Ace Quiz Platform</a>
 
 **Tech : MongoDB, ExpressJS, Socket.io, React, NodeJS, Formik, Custom CSS**
 
