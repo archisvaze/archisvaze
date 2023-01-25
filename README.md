@@ -8,8 +8,6 @@ I am a full-stack developer highly skilled at the MERN/PERN stack and many other
 
 [![My Skills](https://skills.thijs.gg/icons?i=js,html,css,react,redux,nodejs,firebase,mongodb,expressjs,postgres,bash,netlify,vscode,nextjs,typescript,tailwind)](https://skills.thijs.gg)
 
-## <a href="https://archisvaze.hashnode.dev/">Read my Blog</a>
-
 ### Connect With me: 
 <a href="https://linkedin.com/in/archisvaze">
   <img src="https://user-images.githubusercontent.com/92965519/193201373-891d62d9-8bd4-46d6-bfb4-305b478f9876.svg" width="6%" max-width="50px">
@@ -30,6 +28,9 @@ I am a full-stack developer highly skilled at the MERN/PERN stack and many other
 ![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=archisvaze&theme=nord)  
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=archisvaze.archisvaze)  
+
+## <a href="https://archisvaze.hashnode.dev/">Read my Blog</a>
+-- <a href="https://archisvaze.hashnode.dev/a-simple-and-customizable-react-alert-component">A simple React alert component</a>
 
 
 ## <p align=center >Some of my favorite projects</p>
