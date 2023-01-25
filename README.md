@@ -2,7 +2,7 @@
 
 ---
 
-I am a full-stack developer highly skilled at the MERN/PERN stack and many other technologies such as NextJS, TypeScript, Firebase, TailwindCSS, and MaterialUI among others. My work involves writing clean, readable, and reusable code to build stunning, fully responsive web applications using the latest coding techniques. I am someone who embraces change, so I am always ready to learn and master the newest technologies and trends in the tech world.
+I am a full-stack developer with a core speciality in the MERN/PERN stack. My work involves writing clean, readable, and reusable code to build responsive and efficient applications using the latest coding techniques and best practices. I am always looking for ways to improve user experiences, mentoring and learning about the newest technologies and trends in the tech world.
 
 ### I work with:
 
