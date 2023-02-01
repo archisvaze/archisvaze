@@ -1,9 +1,9 @@
 ## Hello I'm Archis Vaze 👋
 
 ---
-Welcome to my GitHub page! I am a Full Stack Developer and here you can find all of my public projects and repositories. Feel free to explore and don't hesitate to reach out if you have any questions or would like to collaborate. Thank you for visiting!
+Welcome to my GitHub page! I am a Full Stack Developer, who is always looking for ways to improve user experiences, mentoring and learning about the newest technologies and trends in the tech world. I have a core specialty in the MERN/PERN stack which I currently use to design responsive, efficient and high quality applications.
 
-As a developer, I am always looking for ways to improve user experiences, mentoring and learning about the newest technologies and trends in the tech world. I have a core specialty in the MERN/PERN stack which I currently use to design responsive, efficient and high quality applications.
+Here you can find all of my public projects and repositories. Feel free to explore and don't hesitate to reach out if you have any questions or would like to collaborate. Thank you for visiting!
 
 
 ### I work with:
