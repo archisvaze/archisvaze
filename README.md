@@ -1,4 +1,4 @@
-## [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=0a85ec&center=false&multiline=true&width=900&size=40&lines=Hello+World,+I'm+Archis+++++++++++)](https://git.io/typing-svg)
+## [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=0a85ec&center=false&multiline=true&width=900&size=40&lines=Hello,+World!++I'm+Archis+++++++++++)](https://git.io/typing-svg)
 
 ---
 Welcome to my GitHub page! I am a Full Stack Developer, who is always looking for ways to improve user experiences, mentoring and learning about the newest technologies and trends in the tech world. I have a core specialty in the MERN/PERN stack which I currently use to design responsive, efficient and high quality applications.
