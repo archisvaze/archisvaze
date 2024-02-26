@@ -33,7 +33,7 @@ Here you can find all of my public projects and repositories. Feel free to explo
 
 ## <a href="https://archisvaze.hashnode.dev/">Read my Blog</a>
 <a href="https://archisvaze.hashnode.dev/a-simple-and-customizable-react-alert-component">A simple React alert component</a>
-<a href="https://archisvaze.hashnode.dev/a-simple-and-customizable-react-alert-component">Dynamic Text Color Adjustment with React Hooks</a>
+<a href="https://archisvaze.hashnode.dev/dynamic-text-color-adjustment-with-react-hooks">Dynamic Text Color Adjustment with React Hooks</a>
 
 
 ## <p align=center >Some of my favorite projects</p>
