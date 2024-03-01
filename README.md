@@ -44,7 +44,7 @@ Here you can find all of my public projects and repositories. Feel free to explo
 **Tech : MongoDB, ExpressJS, Socket.io, React, NodeJS, Formik, Custom CSS**
 
 #### About
-This is a quiz platform that teachers can use to create personalized quizes with multiple choice questions and host live quiz sessions. Students can join the live quiz sessions and compete by answering the questions.
+This platform is tailored for teachers to create and host personalized multiple-choice quizzes. I managed data using MongoDB and Mongoose in conjunction with Express, and established real-time user connections through Socket.io. For security, I implemented JWT for user authentication and authorization, along with nanoid to generate unique room IDs.
 
 #### Screenshots
 <div style="dispaly: flex: justify-content: center">
@@ -60,7 +60,7 @@ This is a quiz platform that teachers can use to create personalized quizes with
 **Tech : ReactJS, Redux, Firebase-Auth, Firestore**
 
 #### About
-This is a front-end app with firebase as backend. In this website users can signup and register for their custom feedback page. Other users can visit this unique page and provide constructive anonymous feedback about the user. The user can see all the anonymous feedback recieved on his/her homepage
+This App allows users to create their own custom feedback pages, which others can visit to provide feedback. I skillfully utilized React Router v6 for seamless navigation, implemented Firebase Authentication for user security, and employed Firestore for efficient data handling. Additionally, I incorporated Redux for robust state management.
 
 #### Screenshots
 <div style="dispaly: flex: justify-content: center">
@@ -89,7 +89,7 @@ Lookup new and trending movies using the TMDB API. Users can search any movie an
 **Tech : PostgreSQL, ExpressJS, React, NodeJS, MaterialUI**
 
 #### About
-Doctors can signup on this website and select their consultation hours and price. Patients can find doctors and book an appointment for consultation. Patients can rate and review doctors as well. I also implemented passoword reset using nodemailer.
+This app allows doctors to register, set their consultation hours, and pricing, while enabling patients to search for doctors, book appointments, and provide ratings and reviews. I ensured secure user authentication and authorization using JWT. For the UI, I incorporated Material UI components and also implemented a password reset feature using nodemailer.
 
 #### Screenshots
 <div style="dispaly: flex: justify-content: center">
