@@ -69,7 +69,8 @@ This App allows users to create their own custom feedback pages, which others ca
 <img src = "https://user-images.githubusercontent.com/92965519/184519329-277d5f46-a132-4f97-b60a-22fab4b2baa6.png" alt = "Feedback Page" width= "48%"/>
 </div>
 <br/>
- 
+
+<!--
 ## <a href="https://gorgeous-toffee-7cb784.netlify.app/">React Movies Website</a>
 
 **Tech : ReactJS, Redux, API**
@@ -100,7 +101,6 @@ This app allows doctors to register, set their consultation hours, and pricing, 
 </div>
 <br/>
 
-<!--
 **archisvaze/archisvaze** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub 
 
 Here are some ideas to get you started:
