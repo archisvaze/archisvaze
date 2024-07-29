@@ -11,13 +11,13 @@ Here you can find all of my public projects and repositories. Feel free to explo
 
 ### Connect With me: 
 <a href="https://linkedin.com/in/archisvaze">
-  [![skill-icons](https://skillicons.dev/icons?i=linkedin)](https://skillicons.dev)
+[![skill-icons](https://skillicons.dev/icons?i=linkedin)](https://skillicons.dev)
 </a>
 <a href="mailto:vazearchis@gmail.com">
-  [![skill-icons](https://skillicons.dev/icons?i=gmail)](https://skillicons.dev)
+[![skill-icons](https://skillicons.dev/icons?i=gmail)](https://skillicons.dev)
 </a>
 <a href="https://twitter.com/archies004">
-  [![skill-icons](https://skillicons.dev/icons?i=twitter)](https://skillicons.dev)
+[![skill-icons](https://skillicons.dev/icons?i=twitter)](https://skillicons.dev)
 </a>
 
 ### My Stats
