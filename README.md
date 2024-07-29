@@ -9,17 +9,6 @@ Here you can find all of my public projects and repositories. Feel free to explo
 ### I work with:
 [![skill-icons](https://skillicons.dev/icons?i=js,css,html,java,react,firebase,ts,redux,nodejs,express,mongodb,postgres,vscode,idea,bootstrap,tailwind,discord,nextjs,netlify,npm,postman)](https://skillicons.dev)
 
-### Connect With me: 
-<a href="https://linkedin.com/in/archisvaze">
-[![skill-icons](https://skillicons.dev/icons?i=linkedin)](https://skillicons.dev)
-</a>
-<a href="mailto:vazearchis@gmail.com">
-[![skill-icons](https://skillicons.dev/icons?i=gmail)](https://skillicons.dev)
-</a>
-<a href="https://twitter.com/archies004">
-[![skill-icons](https://skillicons.dev/icons?i=twitter)](https://skillicons.dev)
-</a>
-
 ### My Stats
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=archisvaze&theme=nord&hide=TeX&layout=compact) 
