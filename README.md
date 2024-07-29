@@ -7,17 +7,17 @@ Here you can find all of my public projects and repositories. Feel free to explo
 
 
 ### I work with:
-[![skill-icons](https://skillicons.dev/icons?i=js,css,html,java,react,firebase,ts,redux,nodejs,express,mongodb,postgres,vscode)](https://skillicons.dev)
+[![skill-icons](https://skillicons.dev/icons?i=js,css,html,java,react,firebase,ts,redux,nodejs,express,mongodb,postgres,vscode,idea,bootstrap,tailwind,discord,nextjs,netlify,npm,postman)](https://skillicons.dev)
 
 ### Connect With me: 
 <a href="https://linkedin.com/in/archisvaze">
-  <img src="https://user-images.githubusercontent.com/92965519/193201373-891d62d9-8bd4-46d6-bfb4-305b478f9876.svg" width="6%" max-width="50px">
+  [![skill-icons](https://skillicons.dev/icons?i=linkedin)](https://skillicons.dev)
 </a>
 <a href="mailto:vazearchis@gmail.com">
-  <img src="https://user-images.githubusercontent.com/92965519/193213432-329d2df5-959d-4b04-a0ce-41ebece26176.png" width="6%" max-width="50px">
+  [![skill-icons](https://skillicons.dev/icons?i=gmail)](https://skillicons.dev)
 </a>
 <a href="https://twitter.com/archies004">
-  <img src="https://user-images.githubusercontent.com/92965519/193213269-f497e4cb-8688-43e2-bb50-a068a2c24cb9.png" width="6%" max-width="50px">
+  [![skill-icons](https://skillicons.dev/icons?i=twitter)](https://skillicons.dev)
 </a>
 
 ### My Stats
