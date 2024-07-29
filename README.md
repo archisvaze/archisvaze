@@ -7,7 +7,7 @@ Here you can find all of my public projects and repositories. Feel free to explo
 
 
 ### I work with:
-[![skill-icons](https://skillicons.dev/icons?i=js,css,html,react,ts,redux,nodejs,express,mongodb,postgres,firebase,java,jsp)](https://skillicons.dev)
+[![skill-icons](https://skillicons.dev/icons?i=js,css,html,java,react,firebase,ts,redux,nodejs,express,mongodb,postgres,vscode)](https://skillicons.dev)
 
 ### Connect With me: 
 <a href="https://linkedin.com/in/archisvaze">
