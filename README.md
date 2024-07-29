@@ -7,8 +7,7 @@ Here you can find all of my public projects and repositories. Feel free to explo
 
 
 ### I work with:
-
-[![My Skills](https://skills.thijs.gg/icons?i=js,html,css,react,redux,nodejs,firebase,mongodb,expressjs,postgres,bash,netlify,vscode,nextjs,typescript,tailwind)](https://skills.thijs.gg)
+[![skill-icons](https://skillicons.dev/icons?i=ts,js,css,html,react,redux,nodejs,express,mongodb,postgres,firebase)](https://skillicons.dev)
 
 ### Connect With me: 
 <a href="https://linkedin.com/in/archisvaze">
