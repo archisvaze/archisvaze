@@ -1,15 +1,15 @@
 ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=0a85ec&center=false&multiline=true&width=900&size=40&lines=Hello,+World!++I'm+Archis+++++++++++)](https://git.io/typing-svg)
 
 
-Welcome to my GitHub page! I am a Full Stack Developer, who is always looking for ways to improve user experiences, mentoring and learning about the newest technologies and trends in the tech world. I have a core specialty in the MERN/PERN stack which I currently use to design responsive, efficient and high quality applications.
+Welcome to my GitHub page! I'm a Software Engineer with a core specialty in web technologies.
 
 Here you can find all of my public projects and repositories. Feel free to explore and don't hesitate to reach out if you have any questions or would like to collaborate. Thank you for visiting!
 
 
-### I work with:
+### Tech Stack:
 [![skill-icons](https://skillicons.dev/icons?i=js,css,html,java,react,firebase,ts,redux,nodejs,express,mongodb,postgres,vscode,idea,bootstrap,tailwind,discord,nextjs,netlify,npm,postman)](https://skillicons.dev)
 
-### My Stats
+### Stats
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=archisvaze&theme=nord&hide=TeX&layout=compact) 
 
@@ -19,11 +19,12 @@ Here you can find all of my public projects and repositories. Feel free to explo
 
 ![Visitor Badge](https://visitor-badge.laobi.icu/badge?page_id=archisvaze.archisvaze)  
 
-## <a href="https://archisvaze.hashnode.dev/">Read my Blog</a>
+## <a href="https://archisvaze.hashnode.dev/">Read More</a>
 - <a style="width: 100%" href="https://archisvaze.hashnode.dev/a-simple-and-customizable-react-alert-component">A simple React alert component</a>
 - <a style="width: 100%" href="https://archisvaze.hashnode.dev/dynamic-text-color-adjustment-with-react-hooks">Dynamic Text Color Adjustment with React Hooks</a>
 
 
+<!--
 ## <p align=center >Some of my favorite projects</p>
 <br/>
 
@@ -56,7 +57,8 @@ This App allows users to create their own custom feedback pages, which others ca
 <img src = "https://user-images.githubusercontent.com/92965519/184519292-7c11a666-dc31-4526-8f96-ce1160741e02.png" alt = "Home Page" width= "48%"/> 
 <img src = "https://user-images.githubusercontent.com/92965519/184519329-277d5f46-a132-4f97-b60a-22fab4b2baa6.png" alt = "Feedback Page" width= "48%"/>
 </div>
-<br/>
+<br/> 
+-->
 
 <!--
 ## <a href="https://gorgeous-toffee-7cb784.netlify.app/">React Movies Website</a>
