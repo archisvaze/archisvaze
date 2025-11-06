@@ -8,7 +8,7 @@ Here you can find all of my public projects and repositories. Feel free to explo
 
 
 ### Tech Stack:
-[![skill-icons](https://skillicons.dev/icons?i=js,css,html,java,react,firebase,ts,redux,nodejs,express,mongodb,postgres,vscode,idea,bootstrap,tailwind,discord,nextjs,netlify,npm,postman)](https://skillicons.dev)
+[![skill-icons](https://skillicons.dev/icons?i=js,css,html,java,react,swift,firebase,ts,redux,nodejs,express,mongodb,postgres,vscode,idea,bootstrap,tailwind,discord,nextjs,netlify,npm,postman)](https://skillicons.dev)
 
 ### Stats
 
