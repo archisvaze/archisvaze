@@ -1,7 +1,5 @@
 ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=0a85ec&center=false&multiline=true&width=900&size=40&lines=Hello,+World!++I'm+Archis+++++++++++)](https://git.io/typing-svg)
 
-Software Developer with specialty in web technologies
-
 Welcome to my GitHub page!.
 
 Here you can find all of my public projects and repositories. Feel free to explore and don't hesitate to reach out if you have any questions or would like to collaborate. Thank you for visiting!
