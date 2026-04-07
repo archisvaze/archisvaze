@@ -13,9 +13,7 @@ properly.
 
 [![skills](https://skillicons.dev/icons?i=js,ts,java,swift,html,css,react,nextjs,electron,tailwind)](https://skillicons.dev)
 
-[![skills](https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,supabase,firebase)](https://skillicons.dev)
-
-[![skills](https://skillicons.dev/icons?i=vscode,idea,discord)](https://skillicons.dev)
+[![skills](https://skillicons.dev/icons?i=nodejs,express,mongodb,postgres,supabase,firebase,vite,vscode,idea,discord)](https://skillicons.dev)
 
 ---
 
