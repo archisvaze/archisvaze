@@ -1,8 +1,8 @@
 ## [![Typing SVG](https://readme-typing-svg.herokuapp.com?color=0a85ec&center=false&multiline=true&width=900&size=40&lines=Hello,+World!++I'm+Archis+++++++++++)](https://git.io/typing-svg)
 
-I build apps across web, iOS, and desktop.
+I build apps for web, iOS, and desktop.
 
-Mostly React and Next.js, but I'll use whatever gets the product shipped
+Mostly using TypeScript, React and Next.js, but I'll use whatever gets the product shipped
 properly.
 
 🌐 **[archisvaze.com](https://archisvaze.com)** - Check out my website!
