@@ -33,7 +33,6 @@ properly.
 
 ### Blog
 
-- [How to Sign and Notarize an Electron App on macOS (2026 Guide)](https://blog.archisvaze.com/electron-macos-signing-guide)
 - [How to Extract Frames from a Video (Without Installing FFmpeg)](https://blog.archisvaze.com/extract-frames-from-video)
 - [ArcDLP: An Open-Source Video Downloader That Actually Works](https://blog.archisvaze.com/arcdlp)
 - [PinBoard](https://blog.archisvaze.com/pinboard)
