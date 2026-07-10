@@ -33,11 +33,14 @@ properly.
 
 ### Writing
 
-- [Texget App Review: An Insanely Powerful Widget App](https://archisvaze.hashnode.dev/texget-app-review-an-insanely-powerful-widget-app)
-- [Texget App Journey (Founder Story)](https://archisvaze.hashnode.dev/texget-app-journey-founder-story)
-- [Whiteboard Fox: A Simple And Powerful Online Whiteboard for Collaboration](https://archisvaze.hashnode.dev/whiteboard-fox-a-simple-and-powerful-online-whiteboard-for-collaboration)
-- [Dynamic Text Color Adjustment with React Hooks](https://archisvaze.hashnode.dev/dynamic-text-color-adjustment-with-react-hooks)
-- [A simple React alert component](https://archisvaze.hashnode.dev/a-simple-and-customizable-react-alert-component)
+- [How to Sign and Notarize an Electron App on macOS (2026 Guide)](https://blog.archisvaze.com/electron-macos-signing-guide)
+- [How to Extract Frames from a Video (Without Installing FFmpeg)](https://blog.archisvaze.com/extract-frames-from-video)
+- [ArcDLP: An Open-Source Video Downloader That Actually Works](https://blog.archisvaze.com/arcdlp)
+- [PinBoard](https://blog.archisvaze.com/pinboard)
+- [Texget App Review: An Insanely Powerful Widget App](https://blog.archisvaze.com/texget-app-review)
+- [Texget App Journey (Founder Story)](https://blog.archisvaze.com/founder-story)
+- [Whiteboard Fox: A Simple And Powerful Online Whiteboard for Collaboration](https://blog.archisvaze.com/whiteboard-fox)
+- [Dynamic Text Color Adjustment with React Hooks](https://blog.archisvaze.com/dynamic-text-color)
 
 ---
 
