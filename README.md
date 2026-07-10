@@ -5,7 +5,7 @@ I build apps for web, iOS, and desktop.
 Mostly using TypeScript, React and Next.js, but I'll use whatever gets the product shipped
 properly.
 
-🌐 **[archisvaze.com](https://archisvaze.com)** - Check out my website!
+🌐 **[archisvaze.com](https://www.archisvaze.com)** - Check out my website!
 
 ---
 
