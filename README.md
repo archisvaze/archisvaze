@@ -31,8 +31,6 @@ properly.
 
 -->
 
----
-
 ### Blog
 
 - [How to Extract Frames from a Video (Without Installing FFmpeg)](https://blog.archisvaze.com/extract-frames-from-video)
