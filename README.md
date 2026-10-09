@@ -17,6 +17,21 @@ properly.
 
 ---
 
+### Download my desktop apps!
+
+<p align="left">
+  <a href="https://github.com/archisvaze/arcdlp">
+    <img src="./arcdlp-icon.png" width="80" />
+  </a>
+  &nbsp;&nbsp;
+  <a href="https://blog.archisvaze.com/pinboard">
+    <img src="./pinboard-icon.png" width="80" />
+  </a>
+</p>
+
+- **[ArcDLP](https://github.com/archisvaze/arcdlp)** - Open-source video downloader built on yt-dlp.
+- **[PinBoard](https://blog.archisvaze.com/pinboard)** - Backup Pinterest boards to your computer.
+
 <!-- ### Download my iPhone apps!
 
 <p align="left">
@@ -30,6 +45,8 @@ properly.
 </p>
 
 -->
+
+---
 
 ### Blog
 
