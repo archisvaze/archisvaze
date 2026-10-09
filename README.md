@@ -17,7 +17,7 @@ properly.
 
 ---
 
-### Download my iPhone apps!
+<!-- ### Download my iPhone apps!
 
 <p align="left">
   <a href="https://apps.apple.com/in/app/texget-widget-maker/id6756565331">
@@ -28,6 +28,8 @@ properly.
     <img src="./calorie-checker-icon.png" width="80" />
   </a>
 </p>
+
+-->
 
 ---
 
